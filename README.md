@@ -46,3 +46,12 @@ Sistema web simples e funcional para gerenciar o estoque de ferramentas em um al
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+   
+📝 Observações Importantes
+Este é um projeto acadêmico. Em um ambiente de produção real, seria necessário:
+-Hash de senhas (em vez de armazenar senhas em texto claro)
+-Filtros de entrada e proteção contra SQL injection (já parcialmente implementado com PDO)
+-Validação mais robusta no backend
+-Sistema de logout seguro
+O script SQL inclui dados reais de exemplo (ferramentas de almoxarifado).
